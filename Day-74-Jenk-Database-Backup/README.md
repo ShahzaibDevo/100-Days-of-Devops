@@ -15,22 +15,7 @@ There is a requirement to create a Jenkins job to automate the database backup. 
 5. Copy the dump to the Backup Server under location `/home/clint/db_backups`
 6. Schedule this job to run periodically at `*/10 * * * *` (every 10 minutes)
 
-## Infrastructure Details
 
-### Server Information
-
-| Server Name | IP | Hostname | User | Password | Purpose |
-|-------------|-----|----------|------|----------|---------|
-| stapp01 | 172.16.238.10 | stapp01.stratos.xfusioncorp.com | tony | Ir0nM@n | Nautilus App 1 |
-| stapp02 | 172.16.238.11 | stapp02.stratos.xfusioncorp.com | steve | Am3ric@ | Nautilus App 2 |
-| stapp03 | 172.16.238.12 | stapp03.stratos.xfusioncorp.com | banner | BigGr33n | Nautilus App 3 |
-| stlb01 | 172.16.238.14 | stlb01.stratos.xfusioncorp.com | loki | Mischi3f | Nautilus HTTP LB |
-| **stdb01** | **172.16.239.10** | **stdb01.stratos.xfusioncorp.com** | **peter** | **Sp!dy** | **Nautilus DB Server** |
-| ststor01 | 172.16.238.15 | ststor01.stratos.xfusioncorp.com | natasha | Bl@kW | Nautilus Storage Server |
-| **stbkp01** | **172.16.238.16** | **stbkp01.stratos.xfusioncorp.com** | **clint** | **H@wk3y3** | **Nautilus Backup Server** |
-| stmail01 | 172.16.238.17 | stmail01.stratos.xfusioncorp.com | groot | Gr00T123 | Nautilus Mail Server |
-| jump_host | Dynamic | jump_host.stratos.xfusioncorp.com | thor | mjolnir123 | Jump Server |
-| **jenkins** | **172.16.238.19** | **jenkins.stratos.xfusioncorp.com** | **jenkins** | **j@rv!s** | **Jenkins Server** |
 
 ### Key Servers for This Lab
 
@@ -270,70 +255,3 @@ Click **Save** at the bottom of the page.
 2. Watch the **Build History** for the build number
 3. Click on the build number (e.g., #1)
 4. Click **Console Output** to view the execution logs
-
-#### 4.2 Expected Output
-
-```
-Started by user admin
-Running as SYSTEM
-Building in workspace /var/lib/jenkins/workspace/database-backup
-[database-backup] $ /bin/bash /tmp/jenkins16917771521047994774.sh
-==========================================
-Starting backup for database: kodekloud_db01
-Date: Sun Feb  1 05:54:40 GMT 2026
-Database Server: stdb01
-Backup Server: stbkp01
-==========================================
-Step 1: Creating database dump on stdb01...
-Warning: Permanently added 'stdb01' (ED25519) to the list of known hosts.
-✓ Dump created successfully: db_2026-02-01.sql (Size: 44K)
-Step 2: Copying dump to backup server stbkp01...
-Warning: Permanently added 'stbkp01' (ED25519) to the list of known hosts.
-✓ Backup successfully copied to stbkp01:/home/clint/db_backups/
-Step 3: Cleaning up temporary files...
-✓ Temporary files cleaned up
-==========================================
-✓✓✓ BACKUP COMPLETED SUCCESSFULLY! ✓✓✓
-Backup file: db_2026-02-01.sql
-Location: stbkp01:/home/clint/db_backups/
-==========================================
-Finished: SUCCESS
-```
-
-### Step 5: Verify Backup on Backup Server
-
-SSH to the backup server and verify the backup file:
-
-```bash
-ssh clint@stbkp01
-# Password: H@wk3y3
-
-# List backup files
-ls -lh /home/clint/db_backups/
-```
-
-Expected output:
-```
-total 44K
--rw-r--r-- 1 clint clint 44K Feb  1 05:54 db_2026-02-01.sql
-```
-
-Verify file content:
-```bash
-head -20 /home/clint/db_backups/db_2026-02-01.sql
-```
-
-Should show SQL dump content:
-```sql
--- MySQL dump 10.13  Distrib 5.7.44, for Linux (x86_64)
---
--- Host: localhost    Database: kodekloud_db01
--- ------------------------------------------------------
--- Server version       5.7.44
-...
-```
-
-Exit the backup server:
-```bash
-exit
-```
