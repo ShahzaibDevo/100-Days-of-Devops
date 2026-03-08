@@ -125,6 +125,6 @@ stapp03 | SUCCESS => {
 }
 ```
 
-🎉 **`"ping": "pong"` — Lab complete!**
+**`"ping": "pong"` — Lab complete!**
 
 ---
