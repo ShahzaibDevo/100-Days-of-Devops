@@ -34,18 +34,19 @@ Practical, production-inspired scenarios
 Beginners start DevOps from scratch
 
 Intermediate learners strengthen real-world skills
+| Feature                      | Description                                                                           |
+| ---------------------------- | ------------------------------------------------------------------------------------- |
+| ✅ **Step-by-step solutions** | Well-structured solutions with clear, easy-to-follow explanations for every challenge |
+| 💻 **Practical commands**    | Ready-to-use scripts, commands, and configurations for hands-on practice              |
+| ⚙️ **Real-world scenarios**  | Production-like environments with troubleshooting and debugging use cases             |
+| 💡 **Best practices**        | Industry-standard approaches, clean configurations, and efficient workflows           |
+| 🚀 **Progressive learning**  | Structured journey from beginner to advanced level with no learning gaps              |
+| ⭐ **Core DevOps stack**      | Linux · Git · Docker · Kubernetes · AWS · Jenkins · Terraform · Ansible               |
 
-Professionals revise core DevOps concepts
 
-🎯 What You'll Find Here
-Feature	Description
-✅ Step-by-step solutions	Clear explanations for every challenge
-💻 Practical commands	Ready-to-use scripts and configurations
-⚙️ Real-world scenarios	Production-like setups and debugging
-💡 Best practices	Industry standards and clean approaches
-🚀 Progressive learning	Beginner → Advanced structured journey
-⭐ Core DevOps stack	Linux · Git · Docker · Kubernetes · AWS · Jenkins · Terraform · Ansible
+
 🛠️ Technologies Covered
+
 🖥️ Infrastructure & OS
 
 Linux (Ubuntu, CentOS)
@@ -55,6 +56,7 @@ Bash / Shell Scripting
 System Administration
 
 Networking & Security
+
 
 🔁 Version Control
 
@@ -103,6 +105,8 @@ Terraform (Infrastructure as Code – AWS)
 End-to-end deployment workflows
 
 🎯 DevOps Learning Path (Structured + Hands-On)
+
+
 📅 Week 1–3: Linux Fundamentals
 
 User & group management
@@ -117,6 +121,7 @@ System administration
 
 📅 Week 4–5: Version Control (Git)
 
+
 Branching strategies
 
 Merge, rebase, cherry-pick
@@ -128,6 +133,7 @@ Pull requests
 🔹 Hands-on: Real collaboration workflows
 
 📅 Week 6–7: Docker
+
 
 Docker architecture
 
@@ -141,6 +147,7 @@ Docker Compose
 
 📅 Week 8–10: Kubernetes
 
+
 Pods, Deployments, Services
 
 ConfigMaps & Secrets
@@ -152,6 +159,7 @@ Troubleshooting
 🔹 Hands-on: Real deployments and debugging
 
 📅 Week 10–12: CI/CD & Automation
+
 
 Jenkins pipelines
 
@@ -169,7 +177,9 @@ Automated server management
 
 🚀 100 Days of Hands-On Labs
 
+
 Completed 100 real-world DevOps labs including:
+
 
 🔐 Linux security & SSH hardening
 
@@ -189,7 +199,9 @@ Completed 100 real-world DevOps labs including:
 
 ☁️ Terraform (AWS infrastructure provisioning)
 
+
 💡 Key Highlights
+
 
 ✔️ Completed production-level, scenario-based labs (KodeKloud style)
 
@@ -198,10 +210,6 @@ Completed 100 real-world DevOps labs including:
 ✔️ Hands-on experience with end-to-end DevOps lifecycle
 
 ✔️ Built real-world understanding of cloud & automation systems
-
-
-
-
 
 ⭐ Final Note
 
