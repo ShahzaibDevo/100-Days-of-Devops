@@ -11,9 +11,6 @@
 
 **🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
 
-[![GitHub Stars](https://img.shields.io/github/stars/karadHub/100-Days-Of-DevOps?style=social)](https://github.com/karadHub/100-Days-Of-DevOps/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/karadHub/100-Days-Of-DevOps?style=social)](https://github.com/karadHub/100-Days-Of-DevOps/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/karadHub/100-Days-Of-DevOps)](https://github.com/karadHub/100-Days-Of-DevOps/issues)
 
 </div>
 
@@ -151,6 +148,11 @@ A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challeng
 | 79  | [Jenkins Deployment Job](Day%2079/Jenkins%20Deployment%20Job.md)                                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
 | 80  | [Jenkins Chained Builds](Day%2080/Jenkins%20Chained%20Builds.md)                                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced     |
 | 81  | [Jenkins Multistage Pipeline](Day%2081/Jenkins%20Multistage%20Pipeline.md)                                             | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced     |
+
+## 🔄 Automation & Orchestration
+
+### Ansible
+
 | 82  | [Create Ansible Inventory for App Server Testing](Day%2082/Create%20Ansible%20Inventory%20for%20App%20Server%20Testing.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
 | 83  | [Troubleshoot and Create Ansible Playbook](Day%2083/Troubleshoot%20and%20Create%20Ansible%20Playbook.md)               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
 | 84  | [Copy Data to App Servers using Ansible](Day%2084/Copy%20Data%20to%20App%20Servers%20using%20Ansible.md)               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
@@ -163,6 +165,10 @@ A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challeng
 | 91  | [Ansible Lineinfile Module](Day%2091/Ansible%20Lineinfile%20Module.md)                                                 | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
 | 92  | [Managing Jinja2 Templates Using Ansible](Day%2092/Managing%20Jinja2%20Templates%20Using%20Ansible.md)                 | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🔴 Advanced     |
 | 93  | [Using Ansible Conditionals](Day%2093/Using%20Ansible%20Conditionals.md)                                               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🔴 Advanced     |
+
+### Terraform
+
+
 | 94  | [Create VPC Using Terraform](Day%2094/Create%20VPC%20Using%20Terraform.md)                                             | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
 | 95  | [Create Security Group Using Terraform](Day%2095/Create%20Security%20Group%20Using%20Terraform.md)                     | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
 | 96  | [Create EC2 Instance Using Terraform](Day%2096/Create%20EC2%20Instance%20Using%20Terraform.md)                         | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
