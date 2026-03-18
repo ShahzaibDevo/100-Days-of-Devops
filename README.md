@@ -1,52 +1,36 @@
-# 🚀 100 Days of DevOps Challenge [KodeKloud]
+# 🚀 100 Days of DevOps Challenge - KodeKloud Solutions
 
-[![GitHub stars](https://img.shields.io/github/stars/ShahzaibDevo/100-Days-of-Devops?style=social)](https://github.com/ShahzaibDevo/100-Days-of-Devops/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ShahzaibDevo/100-Days-of-Devops?style=social)](https://github.com/ShahzaibDevo/100-Days-of-Devops/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/ShahzaibDevo/100-Days-of-Devops)](https://github.com/ShahzaibDevo/100-Days-of-Devops/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![DevOps](https://img.shields.io/badge/DevOps-100%20Days-blue?style=for-the-badge&logo=devdotto&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Complete DevOps learning path with hands-on labs covering Linux, Docker, Kubernetes, Git, Ansible, and more!**
+*🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
 
-This repository contains comprehensive solutions and detailed explanations for the **100 Days of DevOps Challenge** by KodeKloud. Perfect for beginners and professionals looking to master DevOps tools and practices.
+---
 
-## 🎯 What You'll Learn
+## 📖 About This Repository
 
-- **Linux Administration** - User management, networking, security
-- **Containerization** - Docker, Docker Compose, container orchestration
-- **Kubernetes** - Pods, deployments, services, volumes, troubleshooting
-- **Version Control** - Git workflows, branching, merging, hooks
-- **Configuration Management** - Ansible automation
-- **Web Servers** - Nginx, Apache, load balancing, SSL
-- **Databases** - MySQL, PostgreSQL, MariaDB
-- **Infrastructure as Code** - Terraform, YAML configurations, best practices
+A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challenge** — covering everything from Linux fundamentals to production-grade infrastructure automation, CI/CD pipelines, and cloud deployments.
 
-## 🚀 Quick Start
+### 🎯 What You'll Find Here
 
-1. **Star this repository** ⭐ to keep track of your progress
-2. **Fork the repo** to create your own copy
-3. Start with [Day 001](./days/001.md) - Linux User Setup
-4. Follow the daily challenges in order
-5. Share your progress using `#100DaysOfDevOps`
+| | Feature | Description |
+|---|---|---|
+| ✅ | **Step-by-step solutions** | Every challenge solved with clear, detailed explanations you can follow along |
+| 💻 | **Practical commands** | Ready-to-use commands, scripts, and config files — copy, run, learn |
+| ⚙️ | **Real-world scenarios** | Production-like setups, troubleshooting guides, and debugging walkthroughs |
+| 💡 | **Best practices** | Industry-standard patterns, naming conventions, and architectural decisions |
+| 🚀 | **Progressive learning** | Structured from absolute basics to advanced concepts — no gaps left behind |
+| ⭐ | **10 core skills** | Linux · Git · Docker · Kubernetes · AWS · Ansible · Jenkins · Terraform · Networking |
 
-> **Want to start the official challenge?** Use this [KodeKloud link](https://linkly.link/2CeSH) - it helps support this project!
-
-## Challenge Progress
-
-![100%](https://progress-bar.xyz/100)
 
 ## 🏆 Challenge Completed
-
-**Successfully completed the 100 Days of DevOps Challenge!**
-
-### Learning Modules
-
-| Module | Days | Topics Covered | Status |
-|--------|------|----------------|--------|
-| **Linux Fundamentals** | 1-20 | User management, SSH, scripting, networking | ✅ Complete |
-| **Version Control** | 21-34 | Git workflows, branching, hooks | ✅ Complete |
-| **Containerization** | 35-47 | Docker, Docker Compose, networking | ✅ Complete |
-| **Kubernetes** | 48-67 | Pods, deployments, volumes, troubleshooting | ✅ Complete |
-| **CI/CD, IaC, Automation** | 68-100 | Jenkins, Terraform, Ansible | ✅ Complete |
 
 ### Daily Challenges
 
