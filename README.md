@@ -1,270 +1,271 @@
-# 🚀 100 Days of DevOps Challenge - KodeKloud Solutions
+# 🚀 100 Days of DevOps Challenge [KodeKloud]
 
-![DevOps](https://img.shields.io/badge/DevOps-100%20Days-blue?style=for-the-badge&logo=devdotto&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/ShahzaibDevo/100-Days-of-Devops?style=social)](https://github.com/ShahzaibDevo/100-Days-of-Devops/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShahzaibDevo/100-Days-of-Devops?style=social)](https://github.com/ShahzaibDevo/100-Days-of-Devops/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/ShahzaibDevo/100-Days-of-Devops)](https://github.com/ShahzaibDevo/100-Days-of-Devops/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
+**Complete DevOps learning path with hands-on labs covering Linux, Docker, Kubernetes, Git, Ansible, and more!**
 
----
+This repository contains comprehensive solutions and detailed explanations for the **100 Days of DevOps Challenge** by KodeKloud. Perfect for beginners and professionals looking to master DevOps tools and practices.
 
-## 📖 About This Repository
+## 🎯 What You'll Learn
 
-A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challenge** — covering everything from Linux fundamentals to production-grade infrastructure automation, CI/CD pipelines, and cloud deployments.
-
-### 🎯 What You'll Find Here
-
-| | Feature | Description |
-|---|---|---|
-| ✅ | **Step-by-step solutions** | Every challenge solved with clear, detailed explanations you can follow along |
-| 💻 | **Practical commands** | Ready-to-use commands, scripts, and config files — copy, run, learn |
-| ⚙️ | **Real-world scenarios** | Production-like setups, troubleshooting guides, and debugging walkthroughs |
-| 💡 | **Best practices** | Industry-standard patterns, naming conventions, and architectural decisions |
-| 🚀 | **Progressive learning** | Structured from absolute basics to advanced concepts — no gaps left behind |
-| ⭐ | **10 core skills** | Linux · Git · Docker · Kubernetes · AWS · Ansible · Jenkins · Terraform · Networking |
-
-**Star it to follow the journey.**
-
----
-
-## 🗺️ Learning Path
-
-### 🔧 System Administration & Security
-
-| Day | Topic | Key Technologies | Difficulty |
-| --- | ----- | ---------------- | ---------- |
-| 1 | [Linux User Setup with Non-Interactive Shell](Day%201/README.md) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟢 Beginner |
-| 2 | [Temporary User Setup with Expiry](Day%202/Temporary%20User%20Setup%20with%20Expiry.md) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟢 Beginner |
-| 3 | [Secure Root SSH Access](Day%203/Secure%20Root%20SSH%20Access.md) | ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat&logo=ssh&logoColor=white) | 🟡 Intermediate |
-| 4 | [Script Execution Permissions](Day%204/Script%20Execution%20Permissions.md) | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | 🟢 Beginner |
-| 5 | [SELinux Installation and Configuration](Day%205/SElinux%20Installation%20and%20Configuration.md) | ![SELinux](https://img.shields.io/badge/-SELinux-000000?style=flat) | 🔴 Advanced |
-| 21 | [Set Up Git Repository on Storage Server](Day%2021/Set%20Up%20Git%20Repository%20on%20Storage%20Server.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 22 | [Clone Git Repository on Storage Server](Day%2022/Clone%20Git%20Repository%20on%20Storage%20Server.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 23 | [Fork a Git Repository](Day%2023/Fork%20a%20Git%20Repository.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 24 | [Git Create Branches](Day%2024/Git%20Create%20Branches.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 25 | [Git Merge Branches](Day%2025/Git%20Merge%20Branches.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 26 | [Git Manage Remotes](Day%2026/Git%20Manage%20Remotes.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 27 | [Git Revert Some Changes](Day%2027/Git%20Revert%20Some%20Changes.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 28 | [Git Cherry-Pick a Commit](Day%2028/Git%20Cherry%20Pick.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 29 | [Manage Git Pull Requests](Day%2029/Manage%20Git%20Pull%20Requests.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 30 | [Git Hard Reset](Day%2030/Git%20hard%20reset.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 31 | [Git Stash](Day%2031/Git%20Stash.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 32 | [Git Rebase](Day%2032/Git%20Rebase.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟢 Beginner |
-| 33 | [Resolve Git Merge Conflicts](Day%2033/Resolve%20Git%20Merge%20Conflicts.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟡 Intermediate |
-| 34 | [Git Hook — Auto-tag release on master push (post-update)](Day%2034/Git%20Hook.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 🟡 Intermediate |
-
----
-
-### 🔄 Automation & Orchestration
-
-| Day | Topic | Key Technologies | Difficulty |
-| --- | ----- | ---------------- | ---------- |
-| 6 | [Create a Cron Job](Day%206/Create%20a%20Cron%20Job.md) | ![Cron](https://img.shields.io/badge/-Cron-000000?style=flat) | 🟢 Beginner |
-| 7 | [Linux SSH Authentication](Day%207/Linux-SSH-Authentication.md) | ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat&logo=ssh&logoColor=white) | 🟡 Intermediate |
-| 8 | [Install Ansible](Day%208/Install%20Ansible.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
-| 10 | [Website Media Backup Script](Day%2010/Linux-Bash-Scripts.md) | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | 🟡 Intermediate |
-
----
-
-### 🗄️ Database & Services
-
-| Day | Topic | Key Technologies | Difficulty |
-| --- | ----- | ---------------- | ---------- |
-| 9 | [MariaDB Troubleshooting](Day%209/MariaDB-Troubleshooting.md) | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | 🟡 Intermediate |
-| 11 | [Install & Configure Tomcat Server](Day%2011/Install-Configure-Tomcat-Server.md) | ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black) | 🟡 Intermediate |
-| 17 | [Install and Configure PostgreSQL](Day%2017/Install%20and%20Configure%20PostgreSQL.MD) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | 🟡 Intermediate |
-
----
-
-### 🌐 Networking & Web Services
-
-| Day | Topic | Key Technologies | Difficulty |
-| --- | ----- | ---------------- | ---------- |
-| 12 | [Linux Network Services](Day%2012/Linux-Network-Services.md) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟡 Intermediate |
-| 13 | [IPtables Installation and Configuration](Day%2013/IPtables%20Installation%20And%20Configuration.md) | ![IPTables](https://img.shields.io/badge/-IPTables-000000?style=flat) | 🔴 Advanced |
-| 14 | [Linux Process Troubleshooting](Day%2014/Linux%20Process%20Troubleshooting.md) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟡 Intermediate |
-| 15 | [Setup SSL for Nginx](Day%2015/Setup%20SSL%20for%20Nginx.md) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![SSL](https://img.shields.io/badge/-SSL-000000?style=flat) | 🔴 Advanced |
-| 16 | [Install & Configure Nginx as Load Balancer](Day%2016/Install%20and%20Configure%20Nginx%20as%20an%20LBR.md) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) | 🔴 Advanced |
-| 18 | [Configure LAMP server](Day%2018/Configure%20LAMP%20server.MD) | ![Apache](https://img.shields.io/badge/-Apache-DA291C?style=flat&logo=apache&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | 🟡 Intermediate |
-| 19 | [Install and Configure Web Application](Day%2019/Install%20and%20Configure%20Web%20Application.md) | ![Apache](https://img.shields.io/badge/-Apache-DA291C?style=flat&logo=apache&logoColor=white) | 🟢 Beginner |
-| 20 | [Configure Nginx + PHP-FPM Using Unix Sock](Day%2020/Configure%20Nginx%20+%20PHP-FPM%20Using%20Unix%20Sock.md) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | 🟡 Intermediate |
-
----
-
-## 🐳 Containers & Containerization
-
-| Day | Topic / Guide | Tech / Badge | Level |
-| --- | ------------- | ------------ | ----- |
-| 35 | [Install Docker Packages and Start Docker Service](Day%2035/Install%20Docker.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
-| 36 | [Deploy Nginx Container on Application Server](Day%2036/Deploy%20Nginx%20Container%20on%20Application%20Server.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 37 | [Copy File to Docker Container](Day%2037/Copy%20File%20to%20Docker%20Container.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 38 | [Pull Docker Image](Day%2038/Pull%20Docker%20Image.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 39 | [Create a Docker Image From Container](Day%2039/Create%20a%20Docker%20Image%20From%20Container.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 40 | [Docker EXEC Operations](Day%2040/Docker%20EXEC%20Operations.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 41 | [Write a Docker File](Day%2041/Write%20a%20Docker%20File.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 42 | [Create a Docker Network](Day%2042/Create%20a%20Docker%20Network.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
-| 43 | [Docker Ports Mapping](Day%2043/Docker%20Ports%20Mapping.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner |
-| 44 | [Write a Docker Compose File](Day%2044/Write%20a%20Docker%20Compose%20File.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
-| 45 | [Resolve Dockerfile Issues](Day%2045/Resolve%20Dockerfile%20Issues.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
-| 46 | [Deploy an App on Docker Containers](Day%2046/Deploy%20an%20App%20on%20Docker%20Containers.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
-| 47 | [Docker Python App](Day%2047/Docker%20Python%20App.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
-
----
-
-## ☸️ Kubernetes & Orchestration
-
-| Day | Topic / Guide | Tech / Badge | Level |
-| --- | ------------- | ------------ | ----- |
-| 48 | [Deploy Pods in Kubernetes Cluster](Day%2048/Deploy%20Pods%20in%20Kubernetes%20Cluster.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
-| 49 | [Deploy Applications with Kubernetes Deployments](Day%2049/Deploy%20Applications%20with%20Kubernetes%20Deployments.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
-| 50 | [Set Resource Limits in Kubernetes Pods](Day%2050/Set%20Resource%20Limits%20in%20Kubernetes%20Pods.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 51 | [Execute Rolling Updates in Kubernetes](Day%2051/Execute%20Rolling%20Updates%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 52 | [Revert Deployment to Previous Version in Kubernetes](Day%2052/Revert%20Deployment%20to%20Previous%20Version%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 53 | [Resolve VolumeMounts Issue in Kubernetes](Day%2053/Resolve%20VolumeMounts%20Issue%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced |
-| 54 | [Kubernetes Shared Volumes](Day%2054/Kubernetes%20Shared%20Volumes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 55 | [Kubernetes Sidecar Containers](Day%2055/Kubernetes%20Sidecar%20Containers.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 56 | [Deploy Nginx Web Server on Kubernetes Cluster](Day%2056/Deploy%20Nginx%20Web%20Server%20on%20Kubernetes%20Cluster.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
-| 57 | [Print Environment Variables](Day%2057/Print%20Environment%20Variables.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
-| 58 | [Deploy Grafana on Kubernetes Cluster](Day%2058/Deploy%20Grafana%20on%20Kubernetes%20Cluster.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
-| 59 | [Troubleshoot Deployment issues in Kubernetes](Day%2059/Troubleshoot%20Deployment%20issues%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 60 | [Persistent Volumes in Kubernetes](Day%2060/Persistent%20Volumes%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 61 | [Init Containers in Kubernetes](Day%2061/Init%20Containers%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 62 | [Manage Secrets in Kubernetes](Day%2062/Manage%20Secrets%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 63 | [Deploy Iron Gallery App on Kubernetes](Day%2063/Deploy%20Iron%20Gallery%20App%20on%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced |
-| 64 | [Fix Python App Deployed on Kubernetes Cluster](Day%2064/Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 65 | [Deploy Redis Deployment on Kubernetes](Day%2065/Deploy%20Redis%20Deployment%20on%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
-| 66 | [Deploy MySQL on Kubernetes](Day%2066/Deploy%20MySQL%20on%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 67 | [Deploy Guest Book App on Kubernetes](Day%2067/Deploy%20Guest%20Book%20App%20on%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced |
-
----
-
-## 🔄 CI/CD & Automation Servers
-
-| Day | Topic / Guide | Tech / Badge | Level |
-| --- | ------------- | ------------ | ----- |
-| 68 | [Set Up Jenkins Server](Day%2068/Set%20Up%20Jenkins%20Server.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 69 | [Install Jenkins Plugins](Day%2069/Install%20Jenkins%20Plugins.MD) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner |
-| 70 | [Configure Jenkins User Access](Day%2070/Configure%20Jenkins%20User%20Access.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 71 | [Configure Jenkins Job for Package Installation](Day%2071/Configure%20Jenkins%20Job%20for%20Package%20Installation.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 72 | [Jenkins Parameterized Builds](Day%2072/Jenkins%20Parameterized%20Builds.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner |
-| 73 | [Jenkins Scheduled Jobs](Day%2073/Jenkins%20Scheduled%20Jobs.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 74 | [Jenkins Database Backup Job](Day%2074/Jenkins%20Database%20Backup%20Job.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 75 | [Jenkins Slave Nodes](Day%2075/Jenkins%20Slave%20Nodes.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 76 | [Jenkins Project Security](Day%2076/Jenkins%20Project%20Security.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 77 | [Jenkins Deploy Pipeline](Day%2077/Jenkins%20Deploy%20Pipeline.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced |
-| 78 | [Jenkins Conditional Pipeline](Day%2078/Jenkins%20Conditional%20Pipeline.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced |
-| 79 | [Jenkins Deployment Job](Day%2079/Jenkins%20Deployment%20Job.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 80 | [Jenkins Chained Builds](Day%2080/Jenkins%20Chained%20Builds.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced |
-| 81 | [Jenkins Multistage Pipeline](Day%2081/Jenkins%20Multistage%20Pipeline.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced |
-
----
-
-## ⚙️ Infrastructure as Code & Configuration Management
-
-### Ansible
-
-| Day | Topic / Guide | Tech / Badge | Level |
-| --- | ------------- | ------------ | ----- |
-| 82 | [Create Ansible Inventory for App Server Testing](Day%2082/Create%20Ansible%20Inventory%20for%20App%20Server%20Testing.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner |
-| 83 | [Troubleshoot and Create Ansible Playbook](Day%2083/Troubleshoot%20and%20Create%20Ansible%20Playbook.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
-| 84 | [Copy Data to App Servers using Ansible](Day%2084/Copy%20Data%20to%20App%20Servers%20using%20Ansible.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner |
-| 85 | [Create Files on App Servers using Ansible](Day%2085/Create%20Files%20on%20App%20Servers%20using%20Ansible.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner |
-| 86 | [Ansible Ping Module Usage](Day%2086/Ansible%20Ping%20Module%20Usage.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner |
-| 87 | [Ansible Install Package](Day%2087/Ansible%20Install%20Package.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner |
-| 88 | [Ansible Blockinfile Module](Day%2088/Ansible%20Blockinfile%20Module.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
-| 89 | [Ansible Manage Services](Day%2089/Ansible%20Manage%20Services.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
-| 90 | [Managing ACLs Using Ansible](Day%2090/Managing%20ACLs%20Using%20Ansible.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
-| 91 | [Ansible Lineinfile Module](Day%2091/Ansible%20Lineinfile%20Module.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
-| 92 | [Managing Jinja2 Templates Using Ansible](Day%2092/Managing%20Jinja2%20Templates%20Using%20Ansible.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🔴 Advanced |
-| 93 | [Using Ansible Conditionals](Day%2093/Using%20Ansible%20Conditionals.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🔴 Advanced |
-
-### Terraform
-
-| Day | Topic / Guide | Tech / Badge | Level |
-| --- | ------------- | ------------ | ----- |
-| 94 | [Create VPC Using Terraform](Day%2094/Create%20VPC%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
-| 95 | [Create Security Group Using Terraform](Day%2095/Create%20Security%20Group%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
-| 96 | [Create EC2 Instance Using Terraform](Day%2096/Create%20EC2%20Instance%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
-| 97 | [Create IAM Policy Using Terraform](Day%2097/Create%20IAM%20Policy%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🔴 Advanced |
-| 98 | [Launch EC2 in Private VPC Subnet Using Terraform](Day%2098/Launch%20EC2%20in%20Private%20VPC%20Subnet%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🔴 Advanced |
-| 99 | [Attach IAM Policy for DynamoDB Access Using Terraform](Day%2099/Attach%20IAM%20Policy%20for%20DynamoDB%20Access%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🔴 Advanced |
-
----
-
-## ☁️ Cloud & Monitoring
-
-| Day | Topic / Guide | Tech / Badge | Level |
-| --- | ------------- | ------------ | ----- |
-| 100 | [Create and Configure Alarm Using CloudWatch](Day%20100/Create%20and%20Configure%20Alarm%20Using%20CloudWatch.md) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) | 🔴 Advanced |
-
----
+- **Linux Administration** - User management, networking, security
+- **Containerization** - Docker, Docker Compose, container orchestration
+- **Kubernetes** - Pods, deployments, services, volumes, troubleshooting
+- **Version Control** - Git workflows, branching, merging, hooks
+- **Configuration Management** - Ansible automation
+- **Web Servers** - Nginx, Apache, load balancing, SSL
+- **Databases** - MySQL, PostgreSQL, MariaDB
+- **Infrastructure as Code** - Terraform, YAML configurations, best practices
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**
-```bash
-   git clone https://github.com/ShahzaibDevo/100-Days-of-Devops.git
-   cd 100-Days-of-Devops
-```
-2. **Navigate to any day's solution**
-```bash
-   cd "Day 1"
-```
-3. **Follow the step-by-step instructions** in each day's markdown file
+1. **Star this repository** ⭐ to keep track of your progress
+2. **Fork the repo** to create your own copy
+3. Start with [Day 001](./days/001.md) - Linux User Setup
+4. Follow the daily challenges in order
+5. Share your progress using `#100DaysOfDevOps`
 
----
+> **Want to start the official challenge?** Use this [KodeKloud link](https://linkly.link/2CeSH) - it helps support this project!
 
-## 🎯 Skills You'll Master
+## Challenge Progress
 
-<div align="center">
+![100%](https://progress-bar.xyz/100)
 
-| **Infrastructure** | **Automation** | **Security** | **Monitoring** |
-|:---:|:---:|:---:|:---:|
-| Linux Administration | Ansible | SSH Hardening | Process Management |
-| Network Configuration | Bash Scripting | SELinux | Log Analysis |
-| Service Management | Cron Jobs | IPTables | Troubleshooting |
-| Load Balancing | CI/CD · Jenkins | SSL/TLS | Performance Tuning |
-| Terraform · IaC | Git Workflows | Firewall Rules | Docker · K8s Monitoring |
+## 🏆 Challenge Completed
 
-</div>
+**Successfully completed the 100 Days of DevOps Challenge!**
 
----
+### Learning Modules
+
+| Module | Days | Topics Covered | Status |
+|--------|------|----------------|--------|
+| **Linux Fundamentals** | 1-20 | User management, SSH, scripting, networking | ✅ Complete |
+| **Version Control** | 21-34 | Git workflows, branching, hooks | ✅ Complete |
+| **Containerization** | 35-47 | Docker, Docker Compose, networking | ✅ Complete |
+| **Kubernetes** | 48-67 | Pods, deployments, volumes, troubleshooting | ✅ Complete |
+| **CI/CD, IaC, Automation** | 68-100 | Jenkins, Terraform, Ansible | ✅ Complete |
+
+### Daily Challenges
+
+|Day|Challenge|Topics|Solution|
+|---|---------|------|--------|
+| 001 | Linux User Setup with Non-interactive Shell | Linux, Kubernetes | [Solution](./days/001.md) |
+| 002 | Temporary User Setup with Expiry Date | Linux | [Solution](./days/002.md) |
+| 003 | Secure SSH Root Access | Linux, Kubernetes | [Solution](./days/003.md) |
+| 004 | Script Execute Permissions | Linux, Git | [Solution](./days/004.md) |
+| 005 | Install and Configuration Selinux | Linux, Security | [Solution](./days/005.md) |
+| 006 | Setup a Cron Job | Linux, Kubernetes | [Solution](./days/006.md) |
+| 007 | Linux SSH Automation | Linux, Ansible | [Solution](./days/007.md) |
+| 008 | Setup Ansible | Linux, Ansible | [Solution](./days/008.md) |
+| 009 | Debugging MariaDB Issues | Linux, Database | [Solution](./days/009.md) |
+| 010 | Create a BASH Script | Linux, Networking | [Solution](./days/010.md) |
+| 011 | Install and Setup Tomcat Server | Linux, Networking | [Solution](./days/011.md) |
+| 012 | Linux Network Services | Linux, Networking | [Solution](./days/012.md) |
+| 013 | IPtables Installation And Configuration | Linux, Networking | [Solution](./days/013.md) |
+| 014 | Linux Process Troubleshooting | Linux, Networking | [Solution](./days/014.md) |
+| 015 | Setup SSL for NGINX | Linux, Nginx | [Solution](./days/015.md) |
+| 016 | Install and Configure NGINX as Load Balancer | Linux, Networking | [Solution](./days/016.md) |
+| 017 | Install and Configure PostgreSQL | Linux, Database | [Solution](./days/017.md) |
+| 018 | Configure LAMP Server (LAMP Stack) | Linux, Database | [Solution](./days/018.md) |
+| 019 | Install and Configure Web Application | Linux, Networking | [Solution](./days/019.md) |
+| 020 | Configure Nginx + PHP-FPM Using Unix Sock | Linux, Nginx | [Solution](./days/020.md) |
+| 021 | Setup Git Repository on Server | Git | [Solution](./days/021.md) |
+| 022 | Clone Git Repository | Git, Linux | [Solution](./days/022.md) |
+| 023 | Fork a repository | Git, Linux | [Solution](./days/023.md) |
+| 024 | Git Branch Create | Git | [Solution](./days/024.md) |
+| 025 | Git Branch Merge | Git, Linux | [Solution](./days/025.md) |
+| 026 | Git Manage Remotes | Git | [Solution](./days/026.md) |
+| 027 | Git Revert Some Changes | Git, Networking | [Solution](./days/027.md) |
+| 028 | Git Cherry Pick | Git | [Solution](./days/028.md) |
+| 029 | Git Pull Request | Git, Linux | [Solution](./days/029.md) |
+| 030 | Git Reset Hard | Git, Linux | [Solution](./days/030.md) |
+| 031 | Git Stash | Git, Linux | [Solution](./days/031.md) |
+| 032 | Git Rebase | Git | [Solution](./days/032.md) |
+| 033 | Git Merge Conflict Resolve | Git, Linux | [Solution](./days/033.md) |
+| 034 | Configure Git Hook | Git, Linux | [Solution](./days/034.md) |
+| 035 | Setup Docker Installation | Linux, Docker | [Solution](./days/035.md) |
+| 036 | Run a NGINX Container on Docker | Docker, Kubernetes | [Solution](./days/036.md) |
+| 037 | Copy File to Docker Container | Docker, Kubernetes | [Solution](./days/037.md) |
+| 038 | Docker Pull Images | Docker | [Solution](./days/038.md) |
+| 039 | Create a Docker Image From a Container | Docker, Git | [Solution](./days/039.md) |
+| 040 | Docker Execution | Linux, Docker | [Solution](./days/040.md) |
+| 041 | Create a Docker File | Docker, Networking | [Solution](./days/041.md) |
+| 042 | Create Docker Network | Docker, Networking | [Solution](./days/042.md) |
+| 043 | Docker Ports Mapping | Docker, Kubernetes | [Solution](./days/043.md) |
+| 044 | Creating a Docker Compose File | Docker, Networking | [Solution](./days/044.md) |
+| 045 | Resolve Dockerfile Issues | Docker, Networking | [Solution](./days/045.md) |
+| 046 | Deploy an App on Docker Containers | Docker, Kubernetes | [Solution](./days/046.md) |
+| 047 | Docker Python App | Docker, Networking | [Solution](./days/047.md) |
+| 048 | Deploy Pods in Kubernetes Cluster | Kubernetes, Docker | [Solution](./days/048.md) |
+| 049 | Deploy Applications with Kubernetes Deployments | Kubernetes, Docker | [Solution](./days/049.md) |
+| 050 | Set Resource Limits in Kubernetes Cluster | Kubernetes, Docker | [Solution](./days/050.md) |
+| 051 | Execute Rolling Updates in Kubernetes | Kubernetes, Docker | [Solution](./days/051.md) |
+| 052 | Execute Rollback in Kubernetes Cluster | Kubernetes, Docker | [Solution](./days/052.md) |
+| 053 | Resolve VolumeMounts Issue in Kubernetes | Kubernetes, Docker | [Solution](./days/053.md) |
+| 054 | Kubernetes Shared Volumes | Kubernetes, Docker | [Solution](./days/054.md) |
+| 055 | Kubernetes Sidecar Containers | Kubernetes, Docker | [Solution](./days/055.md) |
+| 056 | Deploy Nginx Web Server on Kubernetes Cluster | Kubernetes, Docker | [Solution](./days/056.md) |
+| 057 | Print Environment Variables | Kubernetes, Linux | [Solution](./days/057.md) |
+| 058 | Deploy Grafana on Kubernetes Cluster | Kubernetes, Docker | [Solution](./days/058.md) |
+| 059 | Troubleshoot Deployment Issues in Kubernetes | Kubernetes, Networking | [Solution](./days/059.md) |
+| 060 | Persistent Volumes in Kubernetes | Kubernetes, Docker | [Solution](./days/060.md) |
+| 061 | Init Containers in Kubernetes | Kubernetes, Docker | [Solution](./days/061.md) |
+| 062 | Manage Secrets in Kubernetes | Kubernetes, Docker | [Solution](./days/062.md) |
+| 063 | Deploy Iron Gallery App on Kubernetes | Kubernetes, Database | [Solution](./days/063.md) |
+| 064 | Fix Python App Deployed on Kubernetes Cluster | Kubernetes, Docker | [Solution](./days/064.md) |
+| 065 | Deploy Redis Deployment on Kubernetes | Kubernetes, Docker | [Solution](./days/065.md) |
+| 066 | Deploy MySQL on Kubernetes | Kubernetes, Docker | [Solution](./days/066.md) |
+| 067 | Deploy Guest Book App on Kubernetes | Kubernetes, Docker | [Solution](./days/067.md) |
+| 068 | Set Up Jenkins Server | Linux, Ci/Cd | [Solution](./days/068.md) |
+| 069 | Install Jenkins Plugins | Ci/Cd | [Solution](./days/069.md) |
+| 070 | Configure Jenkins User Access | Linux, Ci/Cd | [Solution](./days/070.md) |
+| 071 | Configure Jenkins Job for Package Installation | Ci/Cd | [Solution](./days/071.md) |
+| 072 | Jenkins Parameterized Builds | Ci/Cd | [Solution](./days/072.md) |
+| 073 | Jenkins Scheduled Jobs | Ci/Cd | [Solution](./days/073.md) |
+| 074 | Jenkins Database Backup Job | Database, Ci/Cd | [Solution](./days/074.md) |
+| 075 | Jenkins Slave Nodes | Ci/Cd | [Solution](./days/075.md) |
+| 076 | Jenkins Project Security | Ci/Cd, Security | [Solution](./days/076.md) |
+| 077 | Jenkins Deploy Pipeline | Kubernetes, Ci/Cd | [Solution](./days/077.md) |
+| 078 | Jenkins Conditional Pipeline | Ci/Cd | [Solution](./days/078.md) |
+| 079 | Jenkins Deployment Job | Kubernetes, Ci/Cd | [Solution](./days/079.md) |
+| 080 | Jenkins Chained Builds | Ci/Cd | [Solution](./days/080.md) |
+| 081 | Jenkins Multistage Pipeline | Ci/Cd | [Solution](./days/081.md) |
+| 082 | Create Ansible Inventory for App Server Testing | Linux, Ansible | [Solution](./days/082.md) |
+| 083 | Troubleshoot and Create Ansible Playbook | Ansible | [Solution](./days/083.md) |
+| 084 | Copy Data to App Servers using Ansible | Linux, Ansible | [Solution](./days/084.md) |
+| 085 | Create Files on App Servers using Ansible | Linux, Ansible | [Solution](./days/085.md) |
+| 086 | Ansible Ping Module Usage | Ansible | [Solution](./days/086.md) |
+| 087 | Ansible Install Package | Ansible | [Solution](./days/087.md) |
+| 088 | Ansible Blockinfile Module | Ansible | [Solution](./days/088.md) |
+| 089 | Ansible Manage Services | Kubernetes, Ansible | [Solution](./days/089.md) |
+| 090 | Managing ACLs Using Ansible | Ansible | [Solution](./days/090.md) |
+| 091 | Ansible Lineinfile Module | Ansible | [Solution](./days/091.md) |
+| 092 | Managing Jinja2 Templates Using Ansible | Ansible | [Solution](./days/092.md) |
+| 093 | Using Ansible Conditions | Ansible | [Solution](./days/093.md) |
+| 094 | Create VPC Using Terraform | Iac | [Solution](./days/094.md) |
+| 095 | Create Security Group Using Terraform | Iac, Security | [Solution](./days/095.md) |
+| 096 | Create EC2 Instance Using Terraform | Iac | [Solution](./days/096.md) |
+| 097 | Create IAM Policy Using Terraform | Iac | [Solution](./days/097.md) |
+| 098 | Launch EC2 in Private VPC Subnet Using Terraform | Iac | [Solution](./days/098.md) |
+| 099 | Attach IAM Policy for DynamoDB Access Using Terraform | Iac | [Solution](./days/099.md) |
+| 100 | Create and Configure Alarm Using CloudWatch Using Terraform | Iac | [Solution](./days/100.md) |
+
+## Prerequisites
+
+- **Basic Linux knowledge** - Command line familiarity
+- **Text editor** - vim, nano, or VS Code
+- **Virtual environment** - VirtualBox, VMware, or cloud instances
+- **Git basics** - Version control fundamentals
+- **Networking concepts** - Basic understanding of ports, protocols
+
+## 🛠️ Technologies Covered
+
+### Infrastructure & OS
+
+- **Linux** (CentOS, Ubuntu)
+- **Shell Scripting** (Bash)
+- **System Administration**
+- **Network Configuration**
+
+### Containerization
+
+- **Docker** - Containers, images, networking
+- **Docker Compose** - Multi-container applications
+- **Container Registry** - Image management
+
+### Orchestration
+
+- **Kubernetes** - Pods, deployments, volumes, services, replica set
+- **kubectl** - Cluster management
+- **YAML** - Configuration files
+
+### Version Control
+
+- **Git** - Branching, merging, rebasing
+- **GitHub** - Collaboration workflows
+- **Git Hooks** - Automation
+
+### Configuration Management
+
+- **Ansible** - Automation and configuration
+- **YAML** - Playbooks and inventory
+
+### Web Servers & Databases
+
+- **Nginx** - Web server, load balancer, SSL
+- **Apache** - LAMP stack configuration
+- **MySQL/MariaDB** - Database management
+
+### CI/CD, Automation and Provisioning
+
+- **Terraform** - IaC tool to manage cloud resources
+- **Jenkins** - CI/CD pipelines for integration and delivery
+- **Ansible Playbook** - Automation resource management
+
+## 🎯 Learning Path
+
+### Week 1-3: Linux Fundamentals
+
+Master user management, permissions, networking, and system administration basics.
+
+### Week 4-5: Version Control
+
+Learn Git workflows, branching strategies, and collaboration techniques.
+
+### Week 6-7: Containerization
+
+Understand Docker concepts, image creation, and container orchestration.
+
+### Week 8-10: Kubernetes
+
+Deploy and manage applications in Kubernetes clusters with advanced patterns.
+
+### Week 10-12: Jenkins, Terraform
+
+Deploy CI/CD pipelines, provisioning infrastructures, and ansible automation.
 
 ## 🤝 Contributing
 
-Found an issue or have a better solution? Contributions are welcome!
+Contributions are welcome! If you think any solution steps would be better, here's how you can help:
 
-1. Fork the repository
-2. Create your feature branch — `git checkout -b feature/improvement`
-3. Commit your changes — `git commit -am 'Add improvement'`
-4. Push to branch — `git push origin feature/improvement`
-5. Open a Pull Request
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/improvement`)
+3. **Commit** your changes (`git commit -am 'Add new solution'`)
+4. **Push** to the branch (`git push origin feature/improvement`)
+5. **Create** a Pull Request
+
+## 📚 Additional Resources
+
+- [KodeKloud Official Course](https://linkly.link/2CeSH)
+- [Docker Documentation](https://docs.docker.com/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Git Documentation](https://git-scm.com/doc)
+- [Linux Command Reference](https://man7.org/linux/man-pages/)
+
+## ⭐ Show Your Support
+
+If this repository helped you in your DevOps journey:
+
+- **Star** this repository ⭐
+- **Fork** it to create your own version
+- **Share** it with fellow developers
+- **Follow me** for more DevOps content
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Connect With Me
+
+- **GitHub**: [@ShahzaibDevo](https://github.com/ShahzaibDevo)
+- **LinkedIn**: [Shahzaib Munir](https://www.linkedin.com/in/shahzaib21/)
+- **Email**: [infoshahzaibmunir@gmail.com](mailto:infoshahzaibmunir@gmail.com)
 
 ---
 
-## 📞 Connect & Support
+**Happy Learning! — Shahzaib Munir**
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ShahzaibDevo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahzaibDevo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahzaib21-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaib21/)
-[![Email](https://img.shields.io/badge/Email-infoshahzaibmunir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoshahzaibmunir@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ShahzaibDevo?style=social)](https://github.com/ShahzaibDevo)
-
-**If this repository helped your DevOps journey, please consider:**
-
-⭐ **Starring this repository** &nbsp;|&nbsp; 🍴 **Forking for your own learning** &nbsp;|&nbsp; 📢 **Sharing with the community**
-
-</div>
-
----
-
-<div align="center">
-<sub>Built with ❤️ for the DevOps Community &nbsp;·&nbsp; 🚀 <strong>Happy Learning!</strong></sub>
-</div>
+> Remember: The best way to learn DevOps is by doing. Start with Day 1 and build your skills progressively!
