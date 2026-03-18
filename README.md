@@ -44,136 +44,28 @@ Intermediate learners strengthen real-world skills
 | ⭐ **Core DevOps stack**      | Linux · Git · Docker · Kubernetes · AWS · Jenkins · Terraform · Ansible               |
 
 
+| Category                        | Tools & Technologies                                                                                               |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🖥️ **Infrastructure & OS**     | Linux (Ubuntu, CentOS) <br> Bash / Shell Scripting <br> System Administration <br> Networking & Security           |
+| 🔁 **Version Control**          | Git (branching, rebasing, merging) <br> GitHub workflows <br> Git hooks & collaboration                            |
+| 🐳 **Containerization**         | Docker (images, containers, networking) <br> Docker Compose (multi-container applications) <br> Container Registry |
+| ☸️ **Orchestration**            | Kubernetes (Pods, Deployments, Services) <br> Volumes, ConfigMaps, Secrets <br> Cluster troubleshooting            |
+| ⚙️ **Configuration Management** | Ansible (Playbooks, Inventory, Modules) <br> Automation & server configuration                                     |
+| 🌐 **Web Servers & Databases**  | Nginx (web server, load balancer, SSL) <br> Apache (LAMP stack) <br> MySQL / MariaDB / PostgreSQL                  |
+| 🚀 **CI/CD & Infrastructure**   | Jenkins (pipelines, automation, jobs) <br> Terraform (Infrastructure as Code – AWS)                                |
 
-🛠️ Technologies Covered
 
-🖥️ Infrastructure & OS
 
-Linux (Ubuntu, CentOS)
+| 📅 Phase                               | 🚀 Topics Covered                                                                                          | 🔹 Hands-On Experience                                                                          |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 🐧 **Week 1–3: Linux Fundamentals**    | User & group management <br> Permissions & access control <br> Networking & SSH <br> System administration | SSH security hardening <br> Cron jobs automation <br> SELinux configuration <br> Server setup   |
+| 🔁 **Week 4–5: Version Control (Git)** | Branching strategies <br> Merge, rebase, cherry-pick <br> Conflict resolution <br> Pull requests           | Real-world collaboration workflows <br> Branch management & debugging                           |
+| 🐳 **Week 6–7: Docker**                | Docker architecture <br> Dockerfile creation <br> Networking & volumes <br> Docker Compose                 | Built & deployed containerized applications <br> Debugged Docker environments                   |
+| ☸️ **Week 8–10: Kubernetes**           | Pods, Deployments, Services <br> ConfigMaps & Secrets <br> Volumes & scaling <br> Troubleshooting          | Deployed applications on clusters <br> Performed debugging & resource management                |
+| 🚀 **Week 10–12: CI/CD & Automation**  | Jenkins pipelines <br> Terraform (AWS infrastructure) <br> Ansible automation                              | Built CI/CD pipelines <br> Provisioned cloud infrastructure <br> Automated server configuration |
 
-Bash / Shell Scripting
 
-System Administration
 
-Networking & Security
-
-
-🔁 Version Control
-
-Git (branching, rebasing, merging)
-
-GitHub workflows
-
-Git hooks & collaboration
-
-🐳 Containerization
-
-Docker (images, containers, networking)
-
-Docker Compose (multi-container apps)
-
-Container Registry
-
-☸️ Orchestration
-
-Kubernetes (Pods, Deployments, Services)
-
-Volumes, ConfigMaps, Secrets
-
-Cluster troubleshooting
-
-⚙️ Configuration Management
-
-Ansible (Playbooks, Inventory, Modules)
-
-Automation & server configuration
-
-🌐 Web Servers & Databases
-
-Nginx (web server, load balancer, SSL)
-
-Apache (LAMP stack)
-
-MySQL / MariaDB / PostgreSQL
-
-🚀 CI/CD & Infrastructure
-
-Jenkins (pipelines, automation, jobs)
-
-Terraform (Infrastructure as Code – AWS)
-
-End-to-end deployment workflows
-
-🎯 DevOps Learning Path (Structured + Hands-On)
-
-
-📅 Week 1–3: Linux Fundamentals
-
-User & group management
-
-Permissions & access control
-
-Networking & SSH
-
-System administration
-
-🔹 Hands-on: SSH security, cron jobs, SELinux, server setup
-
-📅 Week 4–5: Version Control (Git)
-
-
-Branching strategies
-
-Merge, rebase, cherry-pick
-
-Conflict resolution
-
-Pull requests
-
-🔹 Hands-on: Real collaboration workflows
-
-📅 Week 6–7: Docker
-
-
-Docker architecture
-
-Dockerfile creation
-
-Networking & volumes
-
-Docker Compose
-
-🔹 Hands-on: Built and deployed containerized apps
-
-📅 Week 8–10: Kubernetes
-
-
-Pods, Deployments, Services
-
-ConfigMaps & Secrets
-
-Volumes & scaling
-
-Troubleshooting
-
-🔹 Hands-on: Real deployments and debugging
-
-📅 Week 10–12: CI/CD & Automation
-
-
-Jenkins pipelines
-
-Terraform (AWS infrastructure)
-
-Ansible automation
-
-🔹 Hands-on:
-
-Built CI/CD pipelines
-
-Provisioned cloud infrastructure
-
-Automated server management
 
 🚀 100 Days of Hands-On Labs
 
@@ -227,4 +119,7 @@ Completed 100 real-world DevOps labs including:
 
 **Happy Learning! — Shahzaib Munir**
 
-> Remember: The best way to learn DevOps is by doing. Start with Day 1 and build your skills progressively!
+— Shahzaib Munir | DevOps & Cloud Enthusiast
+
+From fundamentals to production-level workflows, this journey represents continuous learning, hands-on practice, and real-world problem solving.
+DevOps is not just about tools — it's about building, automating, and improving systems every day.
