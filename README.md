@@ -13,114 +13,201 @@
 *🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
 
 ---
-
-## 📖 About This Repository
-
 📖 About This Repository
-A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challenge** — covering everything from Linux fundamentals to production-grade infrastructure automation, CI/CD pipelines, and cloud deployments.
-This repository documents 100 real-world challenges solved with industry-standard tools including Linux, Docker, Kubernetes, Git, Ansible, Jenkins, and Terraform. Each solution is clearly explained with step-by-step commands, making it easy for anyone visiting to follow along, learn, and apply the concepts directly. Whether you are a beginner stepping into DevOps or a professional brushing up on core skills, this resource is structured to guide you from the ground up — one day at a time.
+
+This repository documents my complete journey through the KodeKloud 100 Days of DevOps Challenge.
+
+It covers everything from Linux fundamentals to advanced cloud infrastructure, CI/CD pipelines, and automation.
+
+Each day includes:
+
+Step-by-step solutions
+
+Real commands and configurations
+
+Troubleshooting approaches
+
+Practical, production-inspired scenarios
+
+💡 This repository is designed to help:
+
+Beginners start DevOps from scratch
+
+Intermediate learners strengthen real-world skills
+
+Professionals revise core DevOps concepts
+
+🎯 What You'll Find Here
+Feature	Description
+✅ Step-by-step solutions	Clear explanations for every challenge
+💻 Practical commands	Ready-to-use scripts and configurations
+⚙️ Real-world scenarios	Production-like setups and debugging
+💡 Best practices	Industry standards and clean approaches
+🚀 Progressive learning	Beginner → Advanced structured journey
+⭐ Core DevOps stack	Linux · Git · Docker · Kubernetes · AWS · Jenkins · Terraform · Ansible
+🛠️ Technologies Covered
+🖥️ Infrastructure & OS
+
+Linux (Ubuntu, CentOS)
+
+Bash / Shell Scripting
+
+System Administration
+
+Networking & Security
+
+🔁 Version Control
+
+Git (branching, rebasing, merging)
+
+GitHub workflows
+
+Git hooks & collaboration
+
+🐳 Containerization
+
+Docker (images, containers, networking)
+
+Docker Compose (multi-container apps)
+
+Container Registry
+
+☸️ Orchestration
+
+Kubernetes (Pods, Deployments, Services)
+
+Volumes, ConfigMaps, Secrets
+
+Cluster troubleshooting
+
+⚙️ Configuration Management
+
+Ansible (Playbooks, Inventory, Modules)
+
+Automation & server configuration
+
+🌐 Web Servers & Databases
+
+Nginx (web server, load balancer, SSL)
+
+Apache (LAMP stack)
+
+MySQL / MariaDB / PostgreSQL
+
+🚀 CI/CD & Infrastructure
+
+Jenkins (pipelines, automation, jobs)
+
+Terraform (Infrastructure as Code – AWS)
+
+End-to-end deployment workflows
+
+🎯 DevOps Learning Path (Structured + Hands-On)
+📅 Week 1–3: Linux Fundamentals
+
+User & group management
+
+Permissions & access control
+
+Networking & SSH
+
+System administration
+
+🔹 Hands-on: SSH security, cron jobs, SELinux, server setup
+
+📅 Week 4–5: Version Control (Git)
+
+Branching strategies
+
+Merge, rebase, cherry-pick
+
+Conflict resolution
+
+Pull requests
+
+🔹 Hands-on: Real collaboration workflows
+
+📅 Week 6–7: Docker
+
+Docker architecture
+
+Dockerfile creation
+
+Networking & volumes
+
+Docker Compose
+
+🔹 Hands-on: Built and deployed containerized apps
+
+📅 Week 8–10: Kubernetes
+
+Pods, Deployments, Services
+
+ConfigMaps & Secrets
+
+Volumes & scaling
+
+Troubleshooting
+
+🔹 Hands-on: Real deployments and debugging
+
+📅 Week 10–12: CI/CD & Automation
+
+Jenkins pipelines
+
+Terraform (AWS infrastructure)
+
+Ansible automation
+
+🔹 Hands-on:
+
+Built CI/CD pipelines
+
+Provisioned cloud infrastructure
+
+Automated server management
+
+🚀 100 Days of Hands-On Labs
+
+Completed 100 real-world DevOps labs including:
+
+🔐 Linux security & SSH hardening
+
+🌐 Web servers (Nginx, Tomcat, PHP-FPM)
+
+🗄️ Databases (MySQL, PostgreSQL, MariaDB)
+
+🔁 Git workflows & collaboration
+
+🐳 Docker containerization
+
+☸️ Kubernetes deployments & troubleshooting
+
+⚙️ Jenkins CI/CD pipelines
+
+🤖 Ansible automation
+
+☁️ Terraform (AWS infrastructure provisioning)
+
+💡 Key Highlights
+
+✔️ Completed production-level, scenario-based labs (KodeKloud style)
+
+✔️ Strong focus on troubleshooting & debugging skills
+
+✔️ Hands-on experience with end-to-end DevOps lifecycle
+
+✔️ Built real-world understanding of cloud & automation systems
 
 
-### 🎯 What You'll Find Here
-
-| | Feature | Description |
-|---|---|---|
-| ✅ | **Step-by-step solutions** | Every challenge solved with clear, detailed explanations you can follow along |
-| 💻 | **Practical commands** | Ready-to-use commands, scripts, and config files — copy, run, learn |
-| ⚙️ | **Real-world scenarios** | Production-like setups, troubleshooting guides, and debugging walkthroughs |
-| 💡 | **Best practices** | Industry-standard patterns, naming conventions, and architectural decisions |
-| 🚀 | **Progressive learning** | Structured from absolute basics to advanced concepts — no gaps left behind |
-| ⭐ | **10 core skills** | Linux · Git · Docker · Kubernetes · AWS · Ansible · Jenkins · Terraform · Networking |
 
 
 
+⭐ Final Note
 
-## 🛠️ Technologies Covered
+“DevOps is not just about tools — it's about automation, problem-solving, and continuous improvement.”
 
-### Infrastructure & OS
-
-- **Linux** (CentOS, Ubuntu)
-- **Shell Scripting** (Bash)
-- **System Administration**
-- **Network Configuration**
-
-### Containerization
-
-- **Docker** - Containers, images, networking
-- **Docker Compose** - Multi-container applications
-- **Container Registry** - Image management
-
-### Orchestration
-
-- **Kubernetes** - Pods, deployments, volumes, services, replica set
-- **kubectl** - Cluster management
-- **YAML** - Configuration files
-
-### Version Control
-
-- **Git** - Branching, merging, rebasing
-- **GitHub** - Collaboration workflows
-- **Git Hooks** - Automation
-
-### Configuration Management
-
-- **Ansible** - Automation and configuration
-- **YAML** - Playbooks and inventory
-
-### Web Servers & Databases
-
-- **Nginx** - Web server, load balancer, SSL
-- **Apache** - LAMP stack configuration
-- **MySQL/MariaDB** - Database management
-
-### CI/CD, Automation and Provisioning
-
-- **Terraform** - IaC tool to manage cloud resources
-- **Jenkins** - CI/CD pipelines for integration and delivery
-- **Ansible Playbook** - Automation resource management
-
-## 🎯 Learning Path
-
-### Week 1-3: Linux Fundamentals
-
-Master user management, permissions, networking, and system administration basics.
-
-### Week 4-5: Version Control
-
-Learn Git workflows, branching strategies, and collaboration techniques.
-
-### Week 6-7: Containerization
-
-Understand Docker concepts, image creation, and container orchestration.
-
-### Week 8-10: Kubernetes
-
-Deploy and manage applications in Kubernetes clusters with advanced patterns.
-
-### Week 10-12: Jenkins, Terraform
-
-Deploy CI/CD pipelines, provisioning infrastructures, and ansible automation.
-
-## 🤝 Contributing
-
-Contributions are welcome! If you think any solution steps would be better, here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/improvement`)
-3. **Commit** your changes (`git commit -am 'Add new solution'`)
-4. **Push** to the branch (`git push origin feature/improvement`)
-5. **Create** a Pull Request
-
-
-## ⭐ Show Your Support
-
-If this repository helped you in your DevOps journey:
-
-- **Star** this repository ⭐
-- **Fork** it to create your own version
-- **Share** it with fellow developers
-- **Follow me** for more DevOps content
-
+🚀 Start from Day 1 and build your skills step by step.
 
 ## 🔗 Connect With Me
 
