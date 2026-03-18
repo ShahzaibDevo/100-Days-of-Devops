@@ -13,29 +13,27 @@
 *🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
 
 ---
-📖 About This Repository
 
-This repository documents my complete journey through the KodeKloud 100 Days of DevOps Challenge.
+## 📖 About This Repository
 
-It covers everything from Linux fundamentals to advanced cloud infrastructure, CI/CD pipelines, and automation.
+This repository documents my complete journey through the **KodeKloud 100 Days of DevOps Challenge**.
+
+It covers everything from **Linux fundamentals** to **advanced cloud infrastructure, CI/CD pipelines, and automation**.
 
 Each day includes:
 
-Step-by-step solutions
-
-Real commands and configurations
-
-Troubleshooting approaches
-
-Practical, production-inspired scenarios
+* Step-by-step solutions
+* Real commands and configurations
+* Troubleshooting approaches
+* Practical, production-inspired scenarios
 
 💡 This repository is designed to help:
 
-Beginners start DevOps from scratch
+* Beginners start DevOps from scratch
+* Intermediate learners strengthen real-world skills
+* Professionals revise core DevOps concepts
 
-Intermediate learners strengthen real-world skills
-
-
+---
 
 | Feature                      | Description                                                                           |
 | ---------------------------- | ------------------------------------------------------------------------------------- |
@@ -47,7 +45,7 @@ Intermediate learners strengthen real-world skills
 | ⭐ **Core DevOps stack**      | Linux · Git · Docker · Kubernetes · AWS · Jenkins · Terraform · Ansible               |
 
 
-
+---
 
 
 
@@ -62,7 +60,7 @@ Intermediate learners strengthen real-world skills
 | 🚀 **CI/CD & Infrastructure**   | Jenkins (pipelines, automation, jobs) <br> Terraform (Infrastructure as Code – AWS)                                |
 
 
-
+---
 
 
 | 📅 Phase                               | 🚀 Topics Covered                                                                                          | 🔹 Hands-On Experience                                                                          |
@@ -74,11 +72,9 @@ Intermediate learners strengthen real-world skills
 | 🚀 **Week 10–12: CI/CD & Automation**  | Jenkins pipelines <br> Terraform (AWS infrastructure) <br> Ansible automation                              | Built CI/CD pipelines <br> Provisioned cloud infrastructure <br> Automated server configuration |
 
 
-
-
-Got it — you want **clean, professional bullet style (no emojis, no extra noise)** 👇
-
 ---
+
+
 
 ## 💡 Key Highlights
 
