@@ -34,6 +34,9 @@ Practical, production-inspired scenarios
 Beginners start DevOps from scratch
 
 Intermediate learners strengthen real-world skills
+
+
+
 | Feature                      | Description                                                                           |
 | ---------------------------- | ------------------------------------------------------------------------------------- |
 | ✅ **Step-by-step solutions** | Well-structured solutions with clear, easy-to-follow explanations for every challenge |
@@ -42,6 +45,10 @@ Intermediate learners strengthen real-world skills
 | 💡 **Best practices**        | Industry-standard approaches, clean configurations, and efficient workflows           |
 | 🚀 **Progressive learning**  | Structured journey from beginner to advanced level with no learning gaps              |
 | ⭐ **Core DevOps stack**      | Linux · Git · Docker · Kubernetes · AWS · Jenkins · Terraform · Ansible               |
+
+
+
+
 
 
 | Category                        | Tools & Technologies                                                                                               |
@@ -56,6 +63,8 @@ Intermediate learners strengthen real-world skills
 
 
 
+
+
 | 📅 Phase                               | 🚀 Topics Covered                                                                                          | 🔹 Hands-On Experience                                                                          |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 🐧 **Week 1–3: Linux Fundamentals**    | User & group management <br> Permissions & access control <br> Networking & SSH <br> System administration | SSH security hardening <br> Cron jobs automation <br> SELinux configuration <br> Server setup   |
@@ -67,45 +76,32 @@ Intermediate learners strengthen real-world skills
 
 
 
-🚀 100 Days of Hands-On Labs
+Got it — you want **clean, professional bullet style (no emojis, no extra noise)** 👇
 
+---
 
-Completed 100 real-world DevOps labs including:
+## 💡 Key Highlights
 
+* Completed production-grade, scenario-based labs (KodeKloud-style environments)
 
-🔐 Linux security & SSH hardening
+* Developed strong expertise in troubleshooting, debugging, and system optimization
 
-🌐 Web servers (Nginx, Tomcat, PHP-FPM)
+* Gained hands-on experience across the end-to-end DevOps lifecycle (Code → Build → Deploy → Monitor)
 
-🗄️ Databases (MySQL, PostgreSQL, MariaDB)
+* Built practical knowledge of cloud infrastructure, automation, and scalable system design
 
-🔁 Git workflows & collaboration
+* Implemented real-world CI/CD pipelines and Infrastructure as Code (IaC) solutions
 
-🐳 Docker containerization
+* Strengthened problem-solving skills through continuous hands-on practice and real-world scenarios
 
-☸️ Kubernetes deployments & troubleshooting
+---
 
-⚙️ Jenkins CI/CD pipelines
+## Final Note
 
-🤖 Ansible automation
+> DevOps is not just about tools it is about building reliable systems through automation, continuous improvement, and a strong problem-solving mindset.
 
-☁️ Terraform (AWS infrastructure provisioning)
+---
 
-
-💡 Key Highlights
-
-
-✔️ Completed production-level, scenario-based labs (KodeKloud style)
-
-✔️ Strong focus on troubleshooting & debugging skills
-
-✔️ Hands-on experience with end-to-end DevOps lifecycle
-
-✔️ Built real-world understanding of cloud & automation systems
-
-⭐ Final Note
-
-“DevOps is not just about tools — it's about automation, problem-solving, and continuous improvement.”
 
 🚀 Start from Day 1 and build your skills step by step.
 
