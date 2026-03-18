@@ -16,7 +16,7 @@
 
 ## 📖 About This Repository
 
-A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challenge** — covering everything from Linux fundamentals to production-grade infrastructure automation, CI/CD pipelines, and cloud deployments.
+A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challenge**  covering everything from Linux fundamentals to production-grade infrastructure automation, CI/CD pipelines, and cloud deployments.
 
 ### 🎯 What You'll Find Here
 
@@ -29,7 +29,7 @@ A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challeng
 | 🚀 | **Progressive learning** | Structured from absolute basics to advanced concepts — no gaps left behind |
 | ⭐ | **10 core skills** | Linux · Git · Docker · Kubernetes · AWS · Ansible · Jenkins · Terraform · Networking |
 
-> Whether you're a beginner mapping your first DevOps path or a practitioner brushing up on tooling — this repo is built to be useful at every level. **Star it to follow the journey.**
+**Star it to follow the journey.**
 
 ## 🗺️ Learning Path
 
