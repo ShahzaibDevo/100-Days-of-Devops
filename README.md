@@ -1,10 +1,13 @@
 # 🚀 100 Days of DevOps Challenge - KodeKloud Solutions
-
 ![DevOps](https://img.shields.io/badge/DevOps-100%20Days-blue?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 **🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
 
@@ -16,15 +19,20 @@
 
 ## 📖 About This Repository
 
-This repository contains my comprehensive solutions and learning journey through the **KodeKloud 100 Days of DevOps Challenge**. Each day focuses on practical, hands-on DevOps skills that are essential in modern software development and infrastructure management.
+A complete, hands-on journey through the **KodeKloud 100 Days of DevOps Challenge** — covering everything from Linux fundamentals to production-grade infrastructure automation, CI/CD pipelines, and cloud deployments.
 
 ### 🎯 What You'll Find Here
 
-- ✅ **Step-by-step solutions** with detailed explanations
-- 📝 **Practical commands** and configurations
-- 🔧 **Real-world scenarios** and troubleshooting guides
-- 💡 **Best practices** and industry standards
-- 🚀 **Progressive learning** from basics to advanced concepts
+| | Feature | Description |
+|---|---|---|
+| ✅ | **Step-by-step solutions** | Every challenge solved with clear, detailed explanations you can follow along |
+| 💻 | **Practical commands** | Ready-to-use commands, scripts, and config files — copy, run, learn |
+| ⚙️ | **Real-world scenarios** | Production-like setups, troubleshooting guides, and debugging walkthroughs |
+| 💡 | **Best practices** | Industry-standard patterns, naming conventions, and architectural decisions |
+| 🚀 | **Progressive learning** | Structured from absolute basics to advanced concepts — no gaps left behind |
+| ⭐ | **10 core skills** | Linux · Git · Docker · Kubernetes · AWS · Ansible · Jenkins · Terraform · Networking |
+
+> Whether you're a beginner mapping your first DevOps path or a practitioner brushing up on tooling — this repo is built to be useful at every level. **Star it to follow the journey.**
 
 ## 🗺️ Learning Path
 
@@ -136,63 +144,93 @@ This repository contains my comprehensive solutions and learning journey through
 | 72  | [Jenkins Parameterized Builds](Day%2072/Jenkins%20Parameterized%20Builds.md)                                           | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner     |
 | 73  | [Jenkins Scheduled Jobs](Day%2073/Jenkins%20Scheduled%20Jobs.md)                                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
 | 74  | [Jenkins Database Backup Job](Day%2074/Jenkins%20Database%20Backup%20Job.md)                                           | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| 75  | [Jenkins Slave Nodes](Day%2075/Jenkins%20Slave%20Nodes.md)                                                             | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| 76  | [Jenkins Project Security](Day%2076/Jenkins%20Project%20Security.md)                                                   | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| 77  | [Jenkins Deploy Pipeline](Day%2077/Jenkins%20Deploy%20Pipeline.md)                                                     | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced     |
+| 78  | [Jenkins Conditional Pipeline](Day%2078/Jenkins%20Conditional%20Pipeline.md)                                           | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced     |
+| 79  | [Jenkins Deployment Job](Day%2079/Jenkins%20Deployment%20Job.md)                                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| 80  | [Jenkins Chained Builds](Day%2080/Jenkins%20Chained%20Builds.md)                                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced     |
+| 81  | [Jenkins Multistage Pipeline](Day%2081/Jenkins%20Multistage%20Pipeline.md)                                             | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🔴 Advanced     |
+| 82  | [Create Ansible Inventory for App Server Testing](Day%2082/Create%20Ansible%20Inventory%20for%20App%20Server%20Testing.md) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
+| 83  | [Troubleshoot and Create Ansible Playbook](Day%2083/Troubleshoot%20and%20Create%20Ansible%20Playbook.md)               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
+| 84  | [Copy Data to App Servers using Ansible](Day%2084/Copy%20Data%20to%20App%20Servers%20using%20Ansible.md)               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
+| 85  | [Create Files on App Servers using Ansible](Day%2085/Create%20Files%20on%20App%20Servers%20using%20Ansible.md)         | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
+| 86  | [Ansible Ping Module Usage](Day%2086/Ansible%20Ping%20Module%20Usage.md)                                               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
+| 87  | [Ansible Install Package](Day%2087/Ansible%20Install%20Package.md)                                                     | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟢 Beginner     |
+| 88  | [Ansible Blockinfile Module](Day%2088/Ansible%20Blockinfile%20Module.md)                                               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
+| 89  | [Ansible Manage Services](Day%2089/Ansible%20Manage%20Services.md)                                                     | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
+| 90  | [Managing ACLs Using Ansible](Day%2090/Managing%20ACLs%20Using%20Ansible.md)                                           | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
+| 91  | [Ansible Lineinfile Module](Day%2091/Ansible%20Lineinfile%20Module.md)                                                 | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🟡 Intermediate |
+| 92  | [Managing Jinja2 Templates Using Ansible](Day%2092/Managing%20Jinja2%20Templates%20Using%20Ansible.md)                 | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🔴 Advanced     |
+| 93  | [Using Ansible Conditionals](Day%2093/Using%20Ansible%20Conditionals.md)                                               | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | 🔴 Advanced     |
+| 94  | [Create VPC Using Terraform](Day%2094/Create%20VPC%20Using%20Terraform.md)                                             | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
+| 95  | [Create Security Group Using Terraform](Day%2095/Create%20Security%20Group%20Using%20Terraform.md)                     | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
+| 96  | [Create EC2 Instance Using Terraform](Day%2096/Create%20EC2%20Instance%20Using%20Terraform.md)                         | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🟡 Intermediate |
+| 97  | [Create IAM Policy Using Terraform](Day%2097/Create%20IAM%20Policy%20Using%20Terraform.md)                             | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🔴 Advanced     |
+| 98  | [Launch EC2 in Private VPC Subnet Using Terraform](Day%2098/Launch%20EC2%20in%20Private%20VPC%20Subnet%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🔴 Advanced     |
+| 99  | [Attach IAM Policy for DynamoDB Access Using Terraform](Day%2099/Attach%20IAM%20Policy%20for%20DynamoDB%20Access%20Using%20Terraform.md) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) | 🔴 Advanced     |
+| 100 | [Create and Configure Alarm Using CloudWatch](Day%20100/Create%20and%20Configure%20Alarm%20Using%20CloudWatch.md)       | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)       | 🔴 Advanced     |
 
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/karadHub/100-Days-Of-DevOps.git
+```bash
+   git clone https://github.com/shahzaib21/100-Days-Of-DevOps.git
    cd 100-Days-Of-DevOps
-   ```
-
+```
 2. **Navigate to any day's solution**
-
-   ```bash
+```bash
    cd "Day 1"
-   ```
-
+```
 3. **Follow the step-by-step instructions** in each day's markdown file
+
+---
 
 ## 🎯 Skills You'll Master
 
 <div align="center">
 
-|  **Infrastructure**   | **Automation** | **Security**  |   **Monitoring**   |
-| :-------------------: | :------------: | :-----------: | :----------------: |
-| Linux Administration  |    Ansible     | SSH Hardening | Process Management |
-| Network Configuration | Bash Scripting |    SELinux    |    Log Analysis    |
-|  Service Management   |   Cron Jobs    |   IPTables    |  Troubleshooting   |
-|    Load Balancing     |     CI/CD      |    SSL/TLS    | Performance Tuning |
+| **Infrastructure** | **Automation** | **Security** | **Monitoring** |
+|:---:|:---:|:---:|:---:|
+| Linux Administration | Ansible | SSH Hardening | Process Management |
+| Network Configuration | Bash Scripting | SELinux | Log Analysis |
+| Service Management | Cron Jobs | IPTables | Troubleshooting |
+| Load Balancing | CI/CD · Jenkins | SSL/TLS | Performance Tuning |
+| Terraform · IaC | Git Workflows | Firewall Rules | Docker · K8s Monitoring |
 
 </div>
+
+---
 
 ## 🤝 Contributing
 
 Found an issue or have a better solution? Contributions are welcome!
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add some improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
+2. Create your feature branch — `git checkout -b feature/improvement`
+3. Commit your changes — `git commit -am 'Add improvement'`
+4. Push to branch — `git push origin feature/improvement`
 5. Open a Pull Request
+
+---
 
 ## 📞 Connect & Support
 
 <div align="center">
 
-**If this repository helped you in your DevOps journey, please consider:**
+[![GitHub](https://img.shields.io/badge/GitHub-shahzaib21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahzaib21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahzaib21-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaib21/)
+[![Email](https://img.shields.io/badge/Email-infoshahzaibmunir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoshahzaibmunir@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/shahzaib21?style=social)](https://github.com/shahzaib21)
 
-⭐ **Starring this repository**
-🍴 **Forking for your own learning**
-📢 **Sharing with fellow DevOps enthusiasts**
+**If this repository helped your DevOps journey, please consider:**
 
-[![GitHub followers](https://img.shields.io/github/followers/karadHub?style=social)](https://github.com/karadHub)
+⭐ **Starring this repository** &nbsp;|&nbsp; 🍴 **Forking for your own learning** &nbsp;|&nbsp; 📢 **Sharing with the community**
 
 </div>
 
 ---
 
 <div align="center">
-<sub>🚀 <strong>Happy Learning!</strong> | Built with ❤️ for the DevOps Community</sub>
+<sub>Built with ❤️ for the DevOps Community &nbsp;·&nbsp; 🚀 <strong>Happy Learning!</strong></sub>
 </div>
