@@ -221,13 +221,6 @@ Contributions are welcome! If you think any solution steps would be better, here
 4. **Push** to the branch (`git push origin feature/improvement`)
 5. **Create** a Pull Request
 
-## 📚 Additional Resources
-
-- [KodeKloud Official Course](https://linkly.link/2CeSH)
-- [Docker Documentation](https://docs.docker.com/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [Git Documentation](https://git-scm.com/doc)
-- [Linux Command Reference](https://man7.org/linux/man-pages/)
 
 ## ⭐ Show Your Support
 
@@ -238,9 +231,6 @@ If this repository helped you in your DevOps journey:
 - **Share** it with fellow developers
 - **Follow me** for more DevOps content
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Connect With Me
 
