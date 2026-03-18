@@ -10,7 +10,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-*🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios**
+
+---
+
+🎯 Comprehensive 100-Day Hands-On DevOps Journey
+A structured, practical learning path covering real-world scenarios, production-inspired solutions, and step-by-step implementations across Linux, Git, Docker, Kubernetes, CI/CD, cloud infrastructure, and automation.
 
 ---
 
@@ -111,7 +115,7 @@ Each day includes:
 
 **Happy Learning! — Shahzaib Munir**
 
-— Shahzaib Munir | DevOps & Cloud Enthusiast
+ Shahzaib Munir | DevOps & Cloud Enthusiast
 
 From fundamentals to production-level workflows, this journey represents continuous learning, hands-on practice, and real-world problem solving.
-DevOps is not just about tools — it's about building, automating, and improving systems every day.
+DevOps is not just about tools it's about building, automating, and improving systems every day.
