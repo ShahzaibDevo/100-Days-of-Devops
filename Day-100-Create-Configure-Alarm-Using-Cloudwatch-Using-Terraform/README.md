@@ -32,16 +32,6 @@ In this lab, we set up an EC2 instance and configured a CloudWatch alarm to moni
                                        └──────────────────────┘
 ```
 
----
-
-## 📁 Project Structure
-
-```
-/home/bob/terraform/
-├── provider.tf       # AWS provider configuration
-├── main.tf           # EC2, CloudWatch Alarm, SNS resources
-└── outputs.tf        # Output values
-```
 
 ---
 
