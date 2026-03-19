@@ -18,8 +18,7 @@ A structured, practical learning path covering real-world scenarios, production-
 
 ---
 
-https://github.com/ShahzaibDevo/100-Days-of-Devops/blob/ca4b56716e066f8427dcf8574a8a2673f4b14480/KodeKloud%20100%20Days%20of%20DevOps%20Certificate.png
-
+![100 Days of DevOps Certificate](https://github.com/ShahzaibDevo/100-Days-of-Devops/blob/ca4b56716e066f8427dcf8574a8a2673f4b14480/KodeKloud%20100%20Days%20of%20DevOps%20Certificate.png?raw=true)
 
 ---
 
