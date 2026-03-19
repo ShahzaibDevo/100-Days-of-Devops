@@ -1,6 +1,4 @@
-Here's a complete GitHub post for this lab:
 
----
 
 # Day 100: Create and Configure Alarm Using CloudWatch Using Terraform 🚀
 
