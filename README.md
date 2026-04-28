@@ -17,11 +17,7 @@
 A structured, practical learning path covering real-world scenarios, production-inspired solutions, and step-by-step implementations across Linux, Git, Docker, Kubernetes, CI/CD, cloud infrastructure, and automation.
 
 ---
-## 🚀 Start DevOps Journey
 
-![Start DevOps](./start_devops.png)
-
-Comprehensive 100-Day hands-on DevOps journey covering Linux, Git, Docker, Kubernetes, CI/CD, cloud infrastructure, and automation through structured practical labs.
 
 ---
 
@@ -32,7 +28,6 @@ Comprehensive 100-Day hands-on DevOps journey covering Linux, Git, Docker, Kuber
 Successfully completed the KodeKloud 100 Days of DevOps program with real-world practical implementations.
 
 
-![100 Days of DevOps Certificate](https://github.com/ShahzaibDevo/100-Days-of-Devops/blob/ca4b56716e066f8427dcf8574a8a2673f4b14480/KodeKloud%20100%20Days%20of%20DevOps%20Certificate.png?raw=true)
 
 ---
 
