@@ -1,32 +1,8 @@
-# 🚀 100 Days of DevOps Challenge - KodeKloud Solutions
-
-![DevOps](https://img.shields.io/badge/DevOps-100%20Days-blue?style=for-the-badge&logo=devdotto&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-
----
+# Start DevOps Journey
 
 ![Start DevOps](./start devops.png)
 
-🎯 Comprehensive 100-Day Hands-On DevOps Journey
-A structured, practical learning path covering real-world scenarios, production-inspired solutions, and step-by-step implementations across Linux, Git, Docker, Kubernetes, CI/CD, cloud infrastructure, and automation.
-
----
-
-![100 Days of DevOps Certificate](./KodeKloud 100 Days of DevOps Certificate.png)
-
-![DevOps](./Devops.png)
-
-Successfully completed the KodeKloud 100 Days of DevOps Certificate, covering core DevOps tools, automation concepts, containerization, and cloud technologies through practical learning.
-
----
+A focused 100-day DevOps learning journey covering practical workflows, core automation tools, and real-world infrastructure skills in Linux, Git, Docker, Kubernetes, CI/CD, and cloud technologies.
 
 ## 📖 About This Repository
 
